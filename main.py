@@ -24,8 +24,7 @@ def test_function():
 print_hi(name="Oleh")
 mane_function()
 
-print_hi(name="Oleh")
-mane_function()
+
 
 
 

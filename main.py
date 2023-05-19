@@ -1,13 +1,18 @@
 def print_hi(name):
        print(f'Hi, {name}')
 def mane_function():
-    for i in range(0,100):
-        if i % 13 == 0:
-            return i
+    x = input("Введіть довільне чмсло: ")
+    s = 0
+    list_of_number = list(x)
+    for i in list_of_number:
+        r = int(i)
+        s += r
+    return print("Сумма всіх цифр в числі дорівнює", s)
 
 
-if __name__ == '__main__':
-    print_hi('PyCharm')
-    print(mane_function())
+
+print_hi(name="Oleh")
+mane_function()
+
 
 

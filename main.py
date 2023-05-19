@@ -10,7 +10,9 @@ def mane_function():
     return print("Сумма всіх цифр в числі дорівнює", s)
 
 def test_function():
-    pass
+    s = 'випив'
+    pr = list(s)
+    pp = list(s[::-1])
 
 print_hi(name="Oleh")
 mane_function()

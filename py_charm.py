@@ -1,7 +1,3 @@
-
-
-
-
 print('Hello world!')
 
 
@@ -23,8 +19,7 @@ def binary_search(lst, val):
 
 
 l = list(range(0, 101))
-# l = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-# l = [70, 30, 20, 70, 100, 60, 400, 20, 30, 100]
+
 print(binary_search(l, 48))
 
 

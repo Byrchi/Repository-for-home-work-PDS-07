@@ -12,6 +12,17 @@ a = 9
 b = 10
 print(f"{a+b}")
 
+def test_function():
+    s = 'випив'
+    pr = list(s)
+    pp = list(s[::-1])
+    if pr == pp:
+        return True
+    else:
+        return False
+
+print_hi(name="Oleh")
+mane_function()
 
 print_hi(name="Oleh")
 mane_function()

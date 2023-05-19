@@ -8,7 +8,9 @@ def mane_function():
         r = int(i)
         s += r
     return print("Сумма всіх цифр в числі дорівнює", s)
-
+a = 9
+b = 10
+print(f"{a+b}")
 
 
 print_hi(name="Oleh")

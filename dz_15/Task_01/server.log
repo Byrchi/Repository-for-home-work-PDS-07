@@ -1,0 +1,10 @@
+server_log 2023-07-04 10:34:46,301 INFO Server is running
+server_log 2023-07-04 10:34:48,281 WARNING connected: ('127.0.0.1', 54653)
+server_log 2023-07-04 10:35:00,916 WARNING received message: b'hello world'
+server_log 2023-07-04 10:35:00,916 INFO answer sends
+server_log 2023-07-04 10:35:00,917 WARNING connected: ('127.0.0.1', 54659)
+server_log 2023-07-04 10:35:14,354 WARNING received message: b'12aer123'
+server_log 2023-07-04 10:35:14,354 INFO answer sends
+server_log 2023-07-04 10:35:14,355 WARNING connected: ('127.0.0.1', 54662)
+server_log 2023-07-04 10:35:19,678 WARNING received message: b''
+server_log 2023-07-04 10:35:19,679 INFO answer sends

@@ -1,0 +1,12 @@
+[
+  "test_binarytree.py::TestNode::test_add_node_in_list",
+  "test_binarytree.py::TestNode::test_delete",
+  "test_binarytree.py::TestNode::test_insert",
+  "test_binarytree.py::TestNode::test_max_val_node",
+  "test_binarytree.py::TestNode::test_min_val_node",
+  "test_binarytree.py::TestNode::test_min_value_node",
+  "test_binarytree.py::test_delete",
+  "test_binarytree.py::test_insert",
+  "test_binarytree.py::test_max_val_node",
+  "test_binarytree.py::test_min_val_node"
+]
